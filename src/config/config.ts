@@ -1,7 +1,7 @@
 export const config = {
   ZERO_ADDRESS: "0x0000000000000000000000000000000000000000",
 
-  buy_amount: 0.1 * 10 ** 18,
+  buy_amount: 4000,
 
   default_gas_price: 5 * 10 ** 9, //wei
   default_gas_limit: 1000000,
